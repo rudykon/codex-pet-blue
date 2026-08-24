@@ -1,0 +1,4 @@
+# Keep credentials and local tooling out of the pet package.
+*_token.json
+.DS_Store
+Thumbs.db
