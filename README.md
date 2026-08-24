@@ -2,7 +2,7 @@
   <strong>English</strong> · <a href="README_zh.md">中文</a>
 </p>
 
-<h1 align="center">Xiao Bulu · Codex Pet</h1>
+<h1 align="center">BIUE · Codex Pet</h1>
 
 <p align="center">
   <strong>A curious Abyssinian companion for Codex</strong><br>
@@ -32,11 +32,11 @@
 <a id="overview"></a>
 ## Overview
 
-Xiao Bulu (小布鲁) is a warm brown Abyssinian cat with large upright ears, amber eyes, a turquoise-and-gold beaded collar, and a round name tag. The pet is packaged for the Codex v2 sprite contract and includes all standard activity states plus a continuous 16-direction look loop.
+BIUE (小布鲁) is a blue Abyssinian cat whose dilute blue coat reads as a distinctive warm brown-gray. BIUE has large upright ears, amber eyes, a turquoise-and-gold beaded collar, and a round name tag. The pet is packaged for the Codex v2 sprite contract and includes all standard activity states plus a continuous 16-direction look loop.
 
 | Goal | Implementation | Result |
 | --- | --- | --- |
-| Preserve character identity | Stable face, coat, proportions, collar, and name tag across every state | Xiao Bulu remains recognizable throughout the atlas |
+| Preserve character identity | Stable face, coat, proportions, collar, and name tag across every state | BIUE remains recognizable throughout the atlas |
 | Communicate Codex activity | Separate idle, movement, greeting, jumping, failure, waiting, working, and review loops | The pet reacts naturally to task state changes |
 | Support pointer-aware attention | Sixteen clockwise look poses in 22.5° steps | Smooth directional attention around the pet |
 | Ship a clean package | Transparent WebP, v2 manifest, previews, and deterministic validation | A small, auditable repository ready for local installation |
@@ -47,14 +47,14 @@ Xiao Bulu (小布鲁) is a warm brown Abyssinian cat with large upright ears, am
 ### Complete animation atlas
 
 <p align="center">
-  <img src="previews/contact-sheet.png" width="900" alt="Contact sheet showing all Xiao Bulu Codex pet animations">
+  <img src="previews/contact-sheet.png" width="900" alt="Contact sheet showing all BIUE Codex pet animations">
 </p>
 
 ### Activity states
 
 | Idle | Waving | Working | Waiting |
 | --- | --- | --- | --- |
-| ![Xiao Bulu idle animation](previews/idle.gif) | ![Xiao Bulu waving animation](previews/waving.gif) | ![Xiao Bulu working animation](previews/running.gif) | ![Xiao Bulu waiting animation](previews/waiting.gif) |
+| ![BIUE idle animation](previews/idle.gif) | ![BIUE waving animation](previews/waving.gif) | ![BIUE working animation](previews/running.gif) | ![BIUE waiting animation](previews/waiting.gif) |
 
 ### Look directions
 
@@ -110,7 +110,7 @@ mkdir -p ~/.codex/pets/xiaobulu
 cp pet.json spritesheet.webp ~/.codex/pets/xiaobulu/
 ```
 
-### 3. Select Xiao Bulu
+### 3. Select BIUE
 
 Refresh or restart Codex, then choose **小布鲁** in the pet selector. In Codex CLI, use `/pets` to view and switch locally installed pets.
 
@@ -136,6 +136,6 @@ Refresh or restart Codex, then choose **小布鲁** in the pet selector. In Code
 <a id="usage-and-rights"></a>
 ## Usage and rights
 
-The repository is shared for personal Codex installation and non-commercial demonstration. Xiao Bulu's character design and artwork are **all rights reserved**. Without explicit permission from the creator, do not sell, sublicense, redistribute as a competing pet pack, use as training data, or present the artwork as your own.
+The repository is shared for personal Codex installation and non-commercial demonstration. BIUE's character design and artwork are **all rights reserved**. Without explicit permission from the creator, do not sell, sublicense, redistribute as a competing pet pack, use as training data, or present the artwork as your own.
 
 Codex, ChatGPT, and OpenAI are trademarks of OpenAI. This community pet is not an official OpenAI product or endorsement.
