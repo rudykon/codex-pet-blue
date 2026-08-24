@@ -26,9 +26,6 @@
   <a href="#usage-and-rights">Usage & Rights</a>
 </p>
 
-> [!IMPORTANT]
-> This repository contains the release-ready Codex pet only. Original cat photos, private identity references, generation prompts, work files, and rejected drafts are intentionally excluded.
-
 <a id="overview"></a>
 ## Overview
 
