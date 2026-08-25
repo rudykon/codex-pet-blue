@@ -126,13 +126,6 @@ Refresh or restart Codex, then choose **小布鲁** in the pet selector. In Code
 | [`validation.json`](validation.json) | Machine-readable atlas validation result |
 | [`LICENSE`](LICENSE) | MIT License terms covering the repository |
 
-## Privacy and responsible sharing
-
-- No original pet photos, EXIF metadata, private identity references, or personal files are included.
-- The package contains only approved release artwork, previews, metadata, and validation output.
-- Redistributed copies must retain the MIT copyright and license notice and must not imply official endorsement by OpenAI.
-- Compatibility may change as Codex pet specifications evolve; current platform behavior takes precedence over this README.
-
 <a id="license"></a>
 ## License
 
