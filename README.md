@@ -2,7 +2,7 @@
   <strong>English</strong> · <a href="README_zh.md">中文</a>
 </p>
 
-<h1 align="center">BIUE · Codex Pet</h1>
+<h1 align="center">BIUE 🐾 · Codex Pet</h1>
 
 <p align="center">
   <strong>A tiny code supervisor with very large ears</strong><br>
@@ -27,7 +27,7 @@
 </p>
 
 <a id="overview"></a>
-## Meet BIUE
+## Meet BIUE 🐈
 
 BIUE (小布鲁) is based on my own blue Abyssinian. He has huge ears, amber eyes, a turquoise-and-gold collar, and the quiet confidence of someone who has never fixed a bug in his life.
 
@@ -44,7 +44,7 @@ His job description is simple:
 The animation uses the original painted frames only. No stretchy-cat interpolation, no squashed whiskers, no accidental noodle legs.
 
 <a id="showcase"></a>
-## Cat in action
+## Cat in action 🎬
 
 ### The whole cat drawer
 
@@ -67,7 +67,7 @@ The animation uses the original painted frames only. No stretchy-cat interpolati
 He can also sprint left, sprint right, jump, sulk after failure, and perform a highly qualified code review. The evidence is in [`previews`](previews/).
 
 <a id="specification"></a>
-## Nerdy bits
+## Nerdy bits 🔧
 
 | Property | Value |
 | --- | --- |
@@ -86,7 +86,7 @@ He can also sprint left, sprint right, jump, sulk after failure, and perform a h
 One tiny cat-flap problem: this repo works with Codex desktop/CLI v2 only. ChatGPT's web pet picker uses a different 1536 × 1872 layout and needs a converted sprite sheet; this particular `spritesheet.webp` will not squeeze through that door unchanged.
 
 <a id="installation"></a>
-## Bring him home
+## Bring him home 🏠
 
 ### 1. Pick up the cat carrier
 
@@ -117,7 +117,7 @@ cp pet.json spritesheet.webp ~/.codex/pets/xiaobulu/
 The folder stays named `xiaobulu`, while the visible name **小布鲁** comes from `pet.json`. Refresh or restart Codex and he should appear automatically in the pet selector. In the Codex CLI, `/pets` opens the local cat census.
 
 <a id="repository-map"></a>
-## What's in the box
+## What's in the box 📦
 
 | Path | Purpose |
 | --- | --- |
@@ -130,7 +130,7 @@ The folder stays named `xiaobulu`, while the visible name **小布鲁** comes fr
 | [`LICENSE`](LICENSE) | MIT License terms covering the repository |
 
 <a id="license"></a>
-## MIT, because cats hate paperwork
+## MIT, because cats hate paperwork 📜
 
 BIUE's artwork, animations, previews, metadata, and docs are released under the [MIT License](LICENSE). Take him home, remix him, teach him new tricks, or put him in your own project, including commercial ones. Just keep the copyright and license notice with the copies.
 
