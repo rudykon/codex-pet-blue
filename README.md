@@ -45,19 +45,19 @@ BIUE (小布鲁) is a blue Abyssinian cat whose dilute blue coat reads as a dist
 ### Complete animation atlas
 
 <p align="center">
-  <img src="previews/contact-sheet.png" width="900" alt="Contact sheet showing all BIUE Codex pet animations">
+  <img src="previews/contact-sheet.png?v=d2552a6" width="900" alt="Contact sheet showing the refined BIUE Codex pet animations">
 </p>
 
 ### Activity states
 
 | Idle | Waving | Working | Waiting |
 | --- | --- | --- | --- |
-| ![BIUE idle animation](previews/idle.gif) | ![BIUE waving animation](previews/waving.gif) | ![BIUE working animation](previews/running.gif) | ![BIUE waiting animation](previews/waiting.gif) |
+| ![BIUE idle animation](previews/idle.gif?v=d2552a6) | ![BIUE waving animation](previews/waving.gif?v=d2552a6) | ![BIUE working animation](previews/running.gif?v=d2552a6) | ![BIUE waiting animation](previews/waiting.gif?v=d2552a6) |
 
 ### Look directions
 
 <p align="center">
-  <img src="previews/look-directions.png" width="900" alt="Neutral pose and sixteen clockwise look directions">
+  <img src="previews/look-directions.png?v=d2552a6" width="900" alt="Neutral pose and sixteen clockwise look directions">
 </p>
 
 The [`previews`](previews/) directory also includes left/right movement, jumping, failure, and review loops.

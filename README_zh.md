@@ -43,19 +43,19 @@
 ### 完整动画图集
 
 <p align="center">
-  <img src="previews/contact-sheet.png" width="900" alt="小布鲁 Codex 宠物全部动作总览">
+  <img src="previews/contact-sheet.png?v=d2552a6" width="900" alt="小布鲁无损平滑版 Codex 宠物全部动作总览">
 </p>
 
 ### 工作状态
 
 | 待机 | 打招呼 | 执行任务 | 等待输入 |
 | --- | --- | --- | --- |
-| ![小布鲁待机动画](previews/idle.gif) | ![小布鲁招手动画](previews/waving.gif) | ![小布鲁执行任务动画](previews/running.gif) | ![小布鲁等待输入动画](previews/waiting.gif) |
+| ![小布鲁待机动画](previews/idle.gif?v=d2552a6) | ![小布鲁招手动画](previews/waving.gif?v=d2552a6) | ![小布鲁执行任务动画](previews/running.gif?v=d2552a6) | ![小布鲁等待输入动画](previews/waiting.gif?v=d2552a6) |
 
 ### 环视方向
 
 <p align="center">
-  <img src="previews/look-directions.png" width="900" alt="小布鲁中立姿势和 16 个顺时针环视方向">
+  <img src="previews/look-directions.png?v=d2552a6" width="900" alt="小布鲁中立姿势和 16 个顺时针环视方向">
 </p>
 
 [`previews`](previews/) 目录还包含左右移动、跳跃、失败和审查等动作 GIF。
