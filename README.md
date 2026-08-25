@@ -35,7 +35,7 @@ BIUE (小布鲁) is a blue Abyssinian cat whose dilute blue coat reads as a dist
 | --- | --- | --- |
 | Preserve character identity | Stable face, coat, proportions, collar, and name tag across every state | BIUE remains recognizable throughout the atlas |
 | Communicate Codex activity | Separate idle, movement, greeting, jumping, failure, waiting, working, and review loops | The pet reacts naturally to task state changes |
-| Keep motion readable | Hold each major action pose across adjacent frames | A relaxed cadence with clearer gestures and expressions |
+| Keep motion readable | Sequence adjacent original frames into continuous loops | Fine transitions without interpolation or shape distortion |
 | Support pointer-aware attention | Sixteen clockwise look poses in 22.5° steps | Smooth directional attention around the pet |
 | Ship a clean package | Transparent WebP, v2 manifest, previews, and deterministic validation | A small, auditable repository ready for local installation |
 
@@ -73,7 +73,7 @@ The [`previews`](previews/) directory also includes left/right movement, jumping
 | Grid | 8 columns × 11 rows |
 | Cell dimensions | 192 × 208 px |
 | Standard states | 9 |
-| Action pacing | Relaxed two-frame key-pose holds |
+| Action pacing | Lossless adjacent-frame smooth loops |
 | Look directions | 16, clockwise in 22.5° steps |
 | Transparency | RGBA WebP |
 | Manifest | `pet.json` with `spriteVersionNumber: 2` |
