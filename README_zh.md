@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/%E5%9B%BE%E9%9B%86-1536%C3%972288-2F8F83?style=flat-square" alt="1536 × 2288 图集">
   <img src="https://img.shields.io/badge/%E5%8A%A8%E4%BD%9C-9%20%E7%A7%8D%E7%8A%B6%E6%80%81-E76F51?style=flat-square" alt="9 种动作状态">
   <img src="https://img.shields.io/badge/%E7%8E%AF%E8%A7%86-16%20%E4%B8%AA%E6%96%B9%E5%90%91-F4A261?style=flat-square" alt="16 个环视方向">
-  <img src="https://img.shields.io/badge/%E7%BE%8E%E6%9C%AF-%E4%BF%9D%E7%95%99%E6%89%80%E6%9C%89%E6%9D%83%E5%88%A9-7C3AED?style=flat-square" alt="美术素材保留所有权利">
+  <img src="https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E8%AE%B8%E5%8F%AF-MIT-7C3AED?style=flat-square" alt="MIT 开源许可证">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <a href="#技术规格">技术规格</a> ·
   <a href="#安装方法">安装方法</a> ·
   <a href="#仓库结构">仓库结构</a> ·
-  <a href="#使用与授权">使用与授权</a>
+  <a href="#开源许可">开源许可</a>
 </p>
 
 ## 项目简介
@@ -119,16 +119,17 @@ cp pet.json spritesheet.webp ~/.codex/pets/xiaobulu/
 | [`previews/look-directions.png`](previews/look-directions.png) | 中立姿势和 16 方向注视循环 |
 | [`previews/`](previews/) | 各状态的动画 GIF 预览 |
 | [`validation.json`](validation.json) | 机器可读的图集验证结果 |
+| [`LICENSE`](LICENSE) | 适用于整个仓库的 MIT 许可证条款 |
 
 ## 隐私与负责任分享
 
 - 仓库不包含猫咪原始照片、EXIF 元数据、私有身份参考或个人文件。
 - 发布包只保留经过确认的成品美术、预览、元数据和验证结果。
-- 第三方转载应保留角色来源，不得暗示该宠物获得 OpenAI 官方背书。
+- 重新分发时必须保留 MIT 版权与许可声明，且不得暗示该宠物获得 OpenAI 官方背书。
 - Codex 宠物规范可能继续变化；若平台当前行为与本文冲突，以平台为准。
 
-## 使用与授权
+## 开源许可
 
-本仓库用于个人 Codex 安装和非商业展示。小布鲁角色设计及美术素材**保留所有权利**。未经创作者明确许可，请勿销售、再授权、作为竞争性宠物包重新分发、用于训练数据，或冒充原创作品发布。
+本仓库以 [MIT 许可证](LICENSE) 开源，包括小布鲁的角色美术、动画图集、预览、元数据和文档。任何人都可以使用、复制、修改、发布、分发、再授权或销售副本，但必须保留原版权声明和许可证文本。
 
 Codex、ChatGPT 和 OpenAI 是 OpenAI 的商标。本社区宠物并非 OpenAI 官方产品，也不代表官方认可或背书。

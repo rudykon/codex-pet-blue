@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Atlas-1536%C3%972288-2F8F83?style=flat-square" alt="1536 by 2288 atlas">
   <img src="https://img.shields.io/badge/Animations-9%20states-E76F51?style=flat-square" alt="9 animation states">
   <img src="https://img.shields.io/badge/Look-16%20directions-F4A261?style=flat-square" alt="16 look directions">
-  <img src="https://img.shields.io/badge/Artwork-All%20rights%20reserved-7C3AED?style=flat-square" alt="Artwork all rights reserved">
+  <img src="https://img.shields.io/badge/License-MIT-7C3AED?style=flat-square" alt="MIT License">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <a href="#specification">Specification</a> ·
   <a href="#installation">Installation</a> ·
   <a href="#repository-map">Repository</a> ·
-  <a href="#usage-and-rights">Usage & Rights</a>
+  <a href="#license">License</a>
 </p>
 
 <a id="overview"></a>
@@ -124,17 +124,18 @@ Refresh or restart Codex, then choose **小布鲁** in the pet selector. In Code
 | [`previews/look-directions.png`](previews/look-directions.png) | Neutral pose and the 16-direction attention loop |
 | [`previews/`](previews/) | Per-state animated GIF previews |
 | [`validation.json`](validation.json) | Machine-readable atlas validation result |
+| [`LICENSE`](LICENSE) | MIT License terms covering the repository |
 
 ## Privacy and responsible sharing
 
 - No original pet photos, EXIF metadata, private identity references, or personal files are included.
 - The package contains only approved release artwork, previews, metadata, and validation output.
-- Third-party mirrors should preserve the character credit and must not imply official endorsement by OpenAI.
+- Redistributed copies must retain the MIT copyright and license notice and must not imply official endorsement by OpenAI.
 - Compatibility may change as Codex pet specifications evolve; current platform behavior takes precedence over this README.
 
-<a id="usage-and-rights"></a>
-## Usage and rights
+<a id="license"></a>
+## License
 
-The repository is shared for personal Codex installation and non-commercial demonstration. BIUE's character design and artwork are **all rights reserved**. Without explicit permission from the creator, do not sell, sublicense, redistribute as a competing pet pack, use as training data, or present the artwork as your own.
+This repository—including the BIUE character artwork, animation atlas, previews, metadata, and documentation—is released under the [MIT License](LICENSE). You may use, copy, modify, publish, distribute, sublicense, and sell copies, provided the copyright and license notice is retained.
 
 Codex, ChatGPT, and OpenAI are trademarks of OpenAI. This community pet is not an official OpenAI product or endorsement.
