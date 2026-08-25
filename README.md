@@ -2,7 +2,7 @@
   <strong>English</strong> · <a href="README_zh.md">中文</a>
 </p>
 
-<h1 align="center">BIUE 🐾 · Codex Pet</h1>
+<h1 align="center">BLUE 🐾 · Codex Pet</h1>
 
 <p align="center">
   <strong>A tiny code supervisor with very large ears</strong><br>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="#overview">Meet BIUE</a> ·
+  <a href="#overview">Meet BLUE</a> ·
   <a href="#showcase">Cat in action</a> ·
   <a href="#specification">Nerdy bits</a> ·
   <a href="#installation">Bring him home</a> ·
@@ -27,11 +27,9 @@
 </p>
 
 <a id="overview"></a>
-## Meet BIUE 🐈
+## Meet BLUE 🐈
 
-BIUE (小布鲁) is based on my own blue Abyssinian. He has huge ears, amber eyes, a turquoise-and-gold collar, and the quiet confidence of someone who has never fixed a bug in his life.
-
-Yes, **BIUE** with an I. That is his name, not your spell-check having a difficult day.
+BLUE (小布鲁) is based on my own blue Abyssinian. He has huge ears, amber eyes, a turquoise-and-gold collar, and the quiet confidence of someone who has never fixed a bug in his life.
 
 His job description is simple:
 
@@ -49,14 +47,14 @@ The animation uses the original painted frames only. No stretchy-cat interpolati
 ### The whole cat drawer
 
 <p align="center">
-  <img src="previews/contact-sheet.png?v=d2552a6" width="900" alt="Contact sheet showing the refined BIUE Codex pet animations">
+  <img src="previews/contact-sheet.png?v=d2552a6" width="900" alt="Contact sheet showing the refined BLUE Codex pet animations">
 </p>
 
 ### A very busy employee
 
 | Idle | Waving | Working | Waiting |
 | --- | --- | --- | --- |
-| ![BIUE idle animation](previews/idle.gif?v=d2552a6) | ![BIUE waving animation](previews/waving.gif?v=d2552a6) | ![BIUE working animation](previews/running.gif?v=d2552a6) | ![BIUE waiting animation](previews/waiting.gif?v=d2552a6) |
+| ![BLUE idle animation](previews/idle.gif?v=d2552a6) | ![BLUE waving animation](previews/waving.gif?v=d2552a6) | ![BLUE working animation](previews/running.gif?v=d2552a6) | ![BLUE waiting animation](previews/waiting.gif?v=d2552a6) |
 
 ### Mouse-pointer surveillance
 
@@ -95,7 +93,7 @@ git clone https://github.com/rudykon/codex-pet-blue.git
 cd codex-pet-blue
 ```
 
-### 2. Give BIUE a room
+### 2. Give BLUE a room
 
 #### Windows PowerShell
 
@@ -132,6 +130,6 @@ The folder stays named `xiaobulu`, while the visible name **小布鲁** comes fr
 <a id="license"></a>
 ## MIT, because cats hate paperwork 📜
 
-BIUE's artwork, animations, previews, metadata, and docs are released under the [MIT License](LICENSE). Take him home, remix him, teach him new tricks, or put him in your own project, including commercial ones. Just keep the copyright and license notice with the copies.
+BLUE's artwork, animations, previews, metadata, and docs are released under the [MIT License](LICENSE). Take him home, remix him, teach him new tricks, or put him in your own project, including commercial ones. Just keep the copyright and license notice with the copies.
 
-Codex, ChatGPT, and OpenAI are OpenAI trademarks. BIUE is a community cat, not an OpenAI employee. Please do not ask him about your API bill.
+Codex, ChatGPT, and OpenAI are OpenAI trademarks. BLUE is a community cat, not an OpenAI employee. Please do not ask him about your API bill.
