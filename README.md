@@ -29,7 +29,7 @@
 <a id="overview"></a>
 ## Meet BIUE
 
-BIUE (小布鲁) is based on my own blue Abyssinian. "Blue" is cat-color vocabulary for a soft warm brown-gray, not printer-ink blue. He has huge ears, amber eyes, a turquoise-and-gold collar, and the quiet confidence of someone who has never fixed a bug in his life.
+BIUE (小布鲁) is based on my own blue Abyssinian. He has huge ears, amber eyes, a turquoise-and-gold collar, and the quiet confidence of someone who has never fixed a bug in his life.
 
 Yes, **BIUE** with an I. That is his name, not your spell-check having a difficult day.
 
