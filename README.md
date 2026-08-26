@@ -2,6 +2,10 @@
   <strong>English</strong> · <a href="README_zh.md">中文</a>
 </p>
 
+<p align="center">
+  <img src="logo-horizontal.png" width="900" alt="codex-pet-blue project logo">
+</p>
+
 <h1 align="center">BLUE 🐾 · Codex Pet</h1>
 
 <p align="center">
