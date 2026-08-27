@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="logo-horizontal.jpg" width="900" alt="codex-pet-blue project logo">
+  <img src="codex-pet-blue.png" width="900" alt="codex-pet-blue project logo">
 </p>
 
 <h1 align="center">BLUE 🐾 · Codex Pet</h1>
